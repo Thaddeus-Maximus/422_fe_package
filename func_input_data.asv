@@ -1,0 +1,4 @@
+function [CoordMat,ConnMat,PropMat]=func_input_data()
+    CoordMat=[1 0 0; 2 4 3; 3 8 0];
+    ConnMat=[1 ];
+    PropMat=[];
